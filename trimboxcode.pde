@@ -1,6 +1,8 @@
 /*   	Code for a flight sim trim wheel box
 		by Travis Howse <tjhowse@gmail.com>
 		2013.   License, GPL v2 or later
+		
+		http://www.youtube.com/watch?v=hSsKeeY5NgM
 **************************************************/
 
 void setup(){}
